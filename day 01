@@ -1,0 +1,8 @@
+day-01
+
+학습목표 : html 구조 파악하기
+
+배운것>
+1. html는 웹 구조 정의하는 언어
+2. 문서는 html 루트 아래 <head>, <body>로 구분
+3. <header>,<main>,<footer> 시맨틱 구조 형성

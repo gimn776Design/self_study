@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>1일차 - HTML 구조 연습</title>
+</head>
+<body>
+
+  <!--header:페이지 머리-->
+  <header>1일차 HTML 구조 연습</header>
+
+  <!--main:주요 콘텐츠-->
+  <main>
+    <section>
+      <h2>01. HTML 구조를 이해하기</h2>
+      <p> >>> HTML은 문서의 구조를 정의하는 언어로, 웹 페이지의 의미를 표현한다.</p>
+    </section>
+     
+     <section>
+      <h2>02. 시맨틱 태그의 역할</h2>
+      <p> >>> header, main, footer는 문서의 각 부분을 논리적으로 구분하여 검색엔진과 사용자에게 의미를 전달한다.</p>
+    </section>
+  </main>
+  
+  <!--footer:하단 정보-->
+  <footer>
+    <p>©매일 학습하기 도전 💪</p>
+  </footer>
+</body>
+</html>
